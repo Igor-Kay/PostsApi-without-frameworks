@@ -1,0 +1,25 @@
+
+.post {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.post-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+.post-body {
+    margin-top: 10px;
+}
+.comments {
+    margin-top: 15px;
+    display: none;
+}
+.comment {
+    border-top: 1px solid #eee;
+    padding: 10px;
+}
+.pagination {
+    text-align: center;
+    margin-top: 20px;
+}
